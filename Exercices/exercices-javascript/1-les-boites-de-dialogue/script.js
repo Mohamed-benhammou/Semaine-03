@@ -1,4 +1,4 @@
-// Exercice 1: affiche Hello World dans une boite de dialogue alert();
+Exercice 1: affiche Hello World dans une boite de dialogue alert();
 
 // Exercice 2: Place ton code précédent en commentaire, dans un prompt, demande son prénom à l'utilisateur, ensuite, à l'aide d'un alert() affiche "Salut" + le prénom de l'utilisateur
 
